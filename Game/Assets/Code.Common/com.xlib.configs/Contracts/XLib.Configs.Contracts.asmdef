@@ -1,0 +1,28 @@
+{
+    "name": "XLib.Configs.Contracts",
+    "rootNamespace": "XLib.Configs",
+    "references": [
+        "Unity.Addressables",
+        "XLib.Unity.Editor",
+        "XLib.Shared.Core",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "ThirdParty",
+        "ThirdParty.Editor",
+        "UniTask",
+        "UniTask.DOTween",
+        "XLib.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.Serialization.dll",
+        "Sirenix.OdinInspector.Attributes.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

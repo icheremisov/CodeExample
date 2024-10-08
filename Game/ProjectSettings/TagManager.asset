@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Landscape
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Environment_Back
+  - Environment_Near
+  - VFX
+  - PostVFX
+  - UiWorldSpace
+  - Environment_BackStatic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 855802947
+    locked: 0
+  - name: Landscape
+    uniqueID: 2526036293
+    locked: 0
+  - name: BgDecorations
+    uniqueID: 3940131073
+    locked: 0
+  - name: Characters_And_VFX
+    uniqueID: 4021033841
+    locked: 0
+  - name: Foreground
+    uniqueID: 664731189
+    locked: 0

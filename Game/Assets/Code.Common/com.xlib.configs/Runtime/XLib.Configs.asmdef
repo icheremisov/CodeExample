@@ -1,0 +1,37 @@
+{
+    "name": "XLib.Configs",
+    "rootNamespace": "XLib.Configs",
+    "references": [
+        "XLib.Shared.Core",
+        "XLib.Configs.Contracts",
+        "XLib.Unity",
+        "XLib.Assets",
+        "UniTask",
+        "XLib.Localization",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "ThirdParty",
+        "ThirdParty.Editor",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "UniTask.Linq",
+        "XLib.BuildSystem",
+        "XLib.Unity.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.Utilities.dll",
+        "Sirenix.Utilities.Editor.dll",
+        "Sirenix.OdinInspector.Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

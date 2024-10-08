@@ -1,0 +1,14 @@
+{
+	"$base": "shared-internal.json",
+
+	"Target": "Android",
+	"BundleTarget":"android-internal",
+
+	"AppBundle": false,
+	"ExportAndroidStudio": false,
+	"KeystorePath": "/../build/develop.keystore",
+	"KeystorePass": "develop",
+	"KeyaliasName": "develop",
+	"KeyaliasPass": "develop"
+
+}

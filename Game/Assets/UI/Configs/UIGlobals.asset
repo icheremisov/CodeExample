@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11ef00dcfc4ada4d9ccacd163b6975c, type: 3}
+  m_Name: UIGlobals
+  m_EditorClassIdentifier: 
+  _animations:
+    _scaleUpButton:
+      _maxScale: 1.2
+      _scaleDurationSec: 0.1
+      _pointerDownEase: 9
+      _pointerUpEase: 8
+    _scaleDownButton:
+      _maxScale: 1.2
+      _scaleDurationSec: 0.1
+      _pointerDownEase: 9
+      _pointerUpEase: 8
+    _disabledButton:
+      _shakeDurationSec: 0.2
+      _shakeStrength: 10
+      _shakeVibrato: 50
+      _shakeEase: 10
+  _sounds:
+    _showWindowSound:
+      _list: 822683295
+      _sound: 490716686
+    _hideWindowSound:
+      _list: 822683295
+      _sound: -558120870
+  _notEnoughColor: {r: 0.9647059, g: 0.2784314, b: 0.2784314, a: 1}
+  _enoughColor: {r: 0, g: 1, b: 0.21960784, a: 1}
+  _scale189: 1
+  _scale169: 0.85

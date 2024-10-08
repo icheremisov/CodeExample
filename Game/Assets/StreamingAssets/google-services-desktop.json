@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "517351782203",
+    "project_id": "life-equal-zero-dev",
+    "storage_bucket": "life-equal-zero-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517351782203:ios:9cc3cfe0a2f636283d291e",
+        "android_client_info": {
+          "package_name": "com.zerostudio.life.dev"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eBrLo9j1_jiMaTNP1WXb-4LBT7B5SGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "XLib.UI.Editor",
+    "rootNamespace": "XLib.UI",
+    "references": [
+        "XLib.UI",
+        "XLib.Shared.Core",
+        "XLib.Unity",
+        "XLib.Assets",
+        "BezierSolution.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor",
+        "UniTask",
+        "Zenject",
+        "ThirdParty",
+        "Unity.ResourceManager",
+        "XLib.BuildSystem",
+        "XLib.Localization",
+        "Shared.Definitions",
+        "XLib.Unity.Editor",
+        "ThirdParty.Editor",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "UniTask.Linq"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "DOTween.dll",
+        "DOTweenPro.dll",
+        "DOTweenEditor.dll",
+        "DOTweenProEditor.dll",
+        "Zenject-usage.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Sirenix.Utilities.Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

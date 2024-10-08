@@ -1,0 +1,16 @@
+{
+	"$base": "shared-public.json",
+
+	"Target": "Android",
+	"BundleTarget":"android-public",
+
+	"AppBundle": true,
+	"ExportAndroidStudio": false,
+	"KeystorePath": "/../production.keystore",
+	"KeystorePass": "",
+	"KeyaliasName": "",
+	"KeyaliasPass": "",
+
+	"Publish": "GoogleStore",
+	"AndroidCreateSymbols": "Public"
+}

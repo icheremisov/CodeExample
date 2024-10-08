@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Data/Scenes/Initialize.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Data/Scenes/Main.unity
+    guid: 92c6e01ccb971aa438c5d2fd634a29e9
+  - enabled: 1
+    path: Assets/UI/Screens/SystemDialogScreen.unity
+    guid: 7cbf262aab1f9a04a9344eb5980cec52
+  - enabled: 1
+    path: Assets/UI/Screens/GameDialogScreen.unity
+    guid: bdfc7126efe7760499d00bb9540b74d0
+  - enabled: 1
+    path: Assets/UI/Screens/DialogFullscreenScreen.unity
+    guid: d378417515a3fbe48bee2b4b94d3bcb7
+  - enabled: 1
+    path: Assets/UI/Screens/MetaGameScreen.unity
+    guid: 09bfd3a0c199a814b88956f79c51a33b
+  - enabled: 1
+    path: Assets/UI/Screens/LevelScreen.unity
+    guid: e65ed4f8427a24c1288cfcc3f965fe04
+  - enabled: 1
+    path: Assets/Environment/SampleScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Environment/TestLevel.unity
+    guid: edd72c2dd429d43b192234b1d43ceff2
+  - enabled: 1
+    path: Assets/Data/Scenes/Level_Logic.unity
+    guid: bd4a93f46529b4f27b09cae3c47aaaf9
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 7d48bea5b99fc468fbabd8b7c424a932, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5257e2574559f6440847ca6123fddfa7, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 6bbc9fa1f200c47a1a96d2b0d44fabfd, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d9ecf611d77c54040ac8ec3a46fa7bdd, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 4be25875543951e428acc0c0e394119d, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 6a1c6a5a0301648108b2c05fa05a7a4e, type: 2}

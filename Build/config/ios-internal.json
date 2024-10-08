@@ -1,0 +1,11 @@
+{
+	"$base": "shared-internal.json",
+
+	"Target": "iOS",
+	"BundleTarget":"ios-internal",
+
+	"ProvisioningProfile": "Life Equal Zero AdHoc Dev",
+	"CertName": "Apple Distribution: ",
+	"TeamId": "",
+	"PList": "ad-hoc.plist"
+}

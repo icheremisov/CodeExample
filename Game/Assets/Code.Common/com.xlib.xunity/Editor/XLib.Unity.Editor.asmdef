@@ -1,0 +1,33 @@
+{
+    "name": "XLib.Unity.Editor",
+    "rootNamespace": "XLib.Unity",
+    "references": [
+        "XLib.Shared.Core",
+        "XLib.Unity",
+        "ThirdParty",
+        "ThirdParty.Editor",
+        "UniTask",
+        "Zenject",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "UniTask.DOTween"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.Utilities.Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

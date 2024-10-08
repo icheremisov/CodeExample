@@ -1,0 +1,7 @@
+{
+	"$base": "shared-internal.json",
+
+	"Target": "StandaloneWindows64",
+	"BundleTarget":"win-internal"
+
+}

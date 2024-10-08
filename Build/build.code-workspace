@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		{
+			"name": "Build Android Internal",
+			"type": "PowerShell",
+			"request": "launch",
+			"script": "${workspaceFolder}/build.ps1 --action Build --platform Android --target internal",
+			"cwd": "${cwd}"
+		},
+		{
+			"name": "Build iOS Internal",
+			"type": "PowerShell",
+			"request": "launch",
+			"script": "${workspaceFolder}/build.ps1 --action Build --platform iOS --target internal",
+			"cwd": "${cwd}"
+		}
+
+		]
+	}
+}

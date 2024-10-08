@@ -1,0 +1,28 @@
+{
+    "name": "ThirdParty.Editor",
+    "rootNamespace": "",
+    "references": [
+        "ThirdParty",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor",
+        "XLib.Unity",
+        "XLib.Shared.Core",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "UniTask",
+        "UniTask.DOTween"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

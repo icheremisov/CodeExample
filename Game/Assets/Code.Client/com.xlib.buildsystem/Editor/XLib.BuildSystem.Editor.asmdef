@@ -1,0 +1,41 @@
+{
+  "name": "XLib.BuildSystem.Editor",
+  "rootNamespace": "XLib.BuildSystem",
+  "references": [
+    "XLib.BuildSystem",
+    "XLib.Shared.Core",
+    "XLib.Unity.Editor",
+    "XLib.Unity",
+    "Unity.Addressables.Editor",
+    "Shared.Definitions",
+    "Client.Rendering.Editor",
+    "XLib.Configs",
+    "LeTai.TranslucentImage",
+    "LeTai.TrueShadow",
+    "ThirdParty",
+    "ThirdParty.Editor",
+    "UniTask",
+    "UniTask.Addressables",
+    "UniTask.DOTween",
+    "UniTask.Linq",
+    "XLib.Assets",
+    "XLib.Configs.Contracts"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll",
+    "Sirenix.OdinValidator.Editor.dll",
+    "Sirenix.OdinInspector.Editor.dll",
+    "Sirenix.OdinInspector.Attributes.dll",
+    "Sirenix.Utilities.Editor.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

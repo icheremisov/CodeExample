@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Console", 
+		"define": "FEATURE_CONSOLE",
+		"comment": "Enable console with logs",
+		"DefaultOn": true
+	},	
+	{
+		"name": "Cheats", 
+		"define": "FEATURE_CHEATS",
+		"comment": "Enable cheats",
+		"DefaultOn": true
+	},	
+	{
+		"name": "Staging", 
+		"define": "FEATURE_STAGING",
+		"comment": "Use Staging configs and URLs",
+		"DefaultOn": false
+	},	
+	{
+		"name": "Production", 
+		"define": "FEATURE_PRODUCTION",
+		"comment": "Use Production configs and URLs",
+		"DefaultOn": false
+	},
+	{
+		"name": "InAppPurchases", 
+		"define": "FEATURE_INAPPPURCHASES",
+		"comment": "Enable In-App Purchases",
+		"DefaultOn": false
+	},
+	{
+		"name": "AddressableLogs",
+		"define": "ADDRESSABLES_LOG_ALL",
+		"comment": "Enable addressable logs",
+		"DefaultOn": true
+	}
+]

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e38b062711f4121ab5bb66ef027bd2d, type: 3}
+  m_Name: Global
+  m_EditorClassIdentifier: 
+  _wildcards:
+  - Client.Entitas.Global.*
+  - GlobalEvent*
+  _systemTypes:
+  - GlobalEventSystems
+  - Client.Entitas.Global.GlobalInitSystem
+  - Client.Entitas.Global.Time.TimeSystem
+  _ecsSystemsPath: Assets/Code/Client/Entitas
+  _ecsSystems:
+  - Add: 1
+    EcsSystemScript: {fileID: 11500000, guid: a5a72a49dd5974a758c7f474cc817bcb, type: 3}
+  - Add: 1
+    EcsSystemScript: {fileID: 11500000, guid: 840fc15868ec4befb5da3b318baf49b7, type: 3}
+  - Add: 1
+    EcsSystemScript: {fileID: 11500000, guid: 51864f3434324e5c875a92ca27f7063d, type: 3}

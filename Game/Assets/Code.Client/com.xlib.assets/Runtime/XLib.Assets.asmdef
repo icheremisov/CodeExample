@@ -1,0 +1,30 @@
+{
+  "name": "XLib.Assets",
+  "rootNamespace": "XLib.Assets",
+  "references": [
+    "Zenject",
+    "UniTask",
+    "UniTask.Linq",
+    "UniTask.Addressables",
+    "Unity.Addressables",
+    "Unity.ResourceManager",
+    "XLib.Shared.Core",
+    "XLib.Unity",
+    "XLib.BuildSystem",
+    "LeTai.TranslucentImage",
+    "LeTai.TrueShadow",
+    "ThirdParty"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Zenject-usage.dll",
+    "Sirenix.OdinInspector.Attributes.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Client.Definitions",
+    "rootNamespace": "Client.Definitions",
+    "references": [
+        "XLib.Shared.Core",
+        "XLib.Configs.Contracts",
+        "XLib.Configs",
+        "XLib.Unity",
+        "XLib.UI",
+        "XLib.Assets",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager",
+        "UniTask",
+        "ThirdParty"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Server.Core.Contract.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,34 @@
+{
+    "name": "XLib.Unity",
+    "rootNamespace": "XLib.Unity",
+    "references": [
+        "XLib.Shared.Core",
+        "Zenject",
+        "UniTask",
+        "UniTask.DOTween",
+        "ThirdParty",
+        "LeTai.TranslucentImage",
+        "Coffee.UIParticle",
+        "LeTai.TrueShadow",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.Utilities.dll",
+        "Sirenix.Utilities.Editor.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Zenject-usage.dll",
+        "DOTween.dll",
+        "DOTweenPro.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

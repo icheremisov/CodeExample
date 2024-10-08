@@ -1,0 +1,18 @@
+{
+	"ProductName": "Life Equal Zero",
+	"BundleId": "com.zerostudio.life",
+
+	"DevelopmentBuild": false,
+	"UseDevGoogleServices": false,
+
+	"AdditionalIl2CppArgs": "--generic-virtual-method-iterations=2",
+	
+	"Discord.WebHookUrl": "",
+	
+	"Feature.StartupConfig": false,
+	"Feature.Console": false,
+	"Feature.Cheats": false,
+	"Feature.InAppPurchases": true,
+	
+	"Feature.Staging": true
+}

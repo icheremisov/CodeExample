@@ -1,0 +1,13 @@
+{
+	"$base": "shared-staging.json",
+
+	"Target": "iOS",
+	"BundleTarget":"ios-staging",
+
+	"ProvisioningProfile": " Public",
+	"CertName": "Apple Distribution: ",
+	"TeamId": "",
+	"PList": "appstore.plist",
+
+	"Publish": "TestFlight"
+}

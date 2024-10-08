@@ -1,0 +1,13 @@
+{
+	"ProductName": "Zero Equal Zero DEV",
+	"BundleId": "com.zerostudio.life.dev",
+
+	"DevelopmentBuild": true,
+	"UseDevGoogleServices": true,
+	
+	"AdditionalIl2CppArgs": "--generic-virtual-method-iterations=2",
+	
+	"Discord.WebHookUrl": "",
+	
+	"Publish": ""
+}

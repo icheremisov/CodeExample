@@ -1,0 +1,33 @@
+{
+  "name": "XLib.Assets.Editor",
+  "rootNamespace": "XLib.Assets",
+  "references": [
+    "XLib.Shared.Core",
+    "XLib.Unity",
+    "Zenject",
+    "UniTask",
+    "UniTask.Linq",
+    "Unity.Addressables",
+    "Unity.Addressables.Editor",
+    "XLib.Assets",
+    "XLib.BuildSystem",
+    "LeTai.TranslucentImage",
+    "LeTai.TrueShadow",
+    "ThirdParty",
+    "UniTask.Addressables",
+    "UniTask.DOTween"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Sirenix.OdinInspector.Attributes.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+	"$base": "shared-public.json",
+
+	"Target": "iOS",
+	"BundleTarget":"ios-public",
+
+	"ProvisioningProfile": " Public",
+	"CertName": "Apple Distribution: ",
+	"TeamId": "",
+	"PList": "appstore.plist",
+
+	"Publish": "TestFlight"
+}

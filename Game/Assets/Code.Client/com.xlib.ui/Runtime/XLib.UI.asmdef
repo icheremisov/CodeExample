@@ -1,0 +1,40 @@
+{
+    "name": "XLib.UI",
+    "rootNamespace": "XLib.UI",
+    "references": [
+        "XLib.Shared.Core",
+        "XLib.Unity",
+        "XLib.Assets",
+        "BezierSolution.Runtime",
+        "Unity.TextMeshPro",
+        "UniTask",
+        "UniTask.DOTween",
+        "Zenject",
+        "ThirdParty",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "XLib.Localization",
+        "LeTai.TranslucentImage",
+        "LeTai.TrueShadow",
+        "UniTask.Addressables",
+        "UniTask.Linq",
+        "XLib.BuildSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "DOTween.dll",
+        "DOTweenPro.dll",
+        "Zenject-usage.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.Serialization.Config.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

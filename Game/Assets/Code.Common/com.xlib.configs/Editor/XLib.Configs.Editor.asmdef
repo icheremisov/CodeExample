@@ -1,0 +1,52 @@
+{
+  "name": "XLib.Configs.Editor",
+  "rootNamespace": "XLib.Configs",
+  "references": [
+    "XLib.Shared.Core",
+    "XLib.Configs.Contracts",
+    "XLib.Configs",
+    "XLib.Unity",
+    "XLib.Assets",
+    "XLib.Assets.Editor",
+    "BoundfoxStudios.FluentAssertions.Editor",
+    "XLib.Unity.Editor",
+    "Shared.Definitions",
+    "UniTask",
+    "ThirdParty.Editor",
+    "XLib.Localization",
+    "LeTai.TranslucentImage",
+    "LeTai.TrueShadow",
+    "ThirdParty",
+    "UniTask.Addressables",
+    "UniTask.DOTween",
+    "UniTask.Linq",
+    "XLib.BuildSystem"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll",
+    "Sirenix.Serialization.dll",
+    "Sirenix.Serialization.Config.dll",
+    "Sirenix.OdinInspector.Editor.dll",
+    "Sirenix.OdinInspector.Attributes.dll",
+    "Sirenix.Utilities.dll",
+    "Sirenix.Utilities.Editor.dll",
+    "Google.Apis.Auth.dll",
+    "Google.Apis.Auth.PlatformServices.dll",
+    "Google.Apis.Core.dll",
+    "Google.Apis.dll",
+    "Google.Apis.Sheets.v4.dll",
+    "AWSSDK.Core.dll",
+    "AWSSDK.S3.dll",
+    "Server.Core.Contract.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

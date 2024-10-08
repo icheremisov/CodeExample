@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: aot support
+  m_EditorClassIdentifier: 
+  m_GroupName: aot support
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 610c5c1850c8041d9a0107efe35bb83c
+  m_SerializeEntries:
+  - m_GUID: 3954cb12c53accc41b566d40fa28985b
+    m_Address: ClientConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f89e1e631a10494eb3ac28822700acd
+    m_Address: ConsoleInstaller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfbdff0f0530143419bc9739db7d067f
+    m_Address: LevelLogic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1ceaa900e5d9a143b3995f79b5f6bdd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9d058416ff0254fdb839038003138aeb, type: 2}
+    - {fileID: 11400000, guid: 40d918481830747039b2b629de7b7542, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eee547a4ac3e01244869eed60be8370f, type: 3}
+  m_Name: ConsoleInstaller
+  m_EditorClassIdentifier: 
+  _lunarConsoleFull: {fileID: 11484734, guid: 43df9dd298be1ee44a900bc2a2464de7, type: 3}
+  _lunarConsole: {fileID: 11484734, guid: a437877d53a8c894ca1eb2b6f397771a, type: 3}
+  _fpsCounter: {fileID: 11400000, guid: e84b65f6b68cbca4a9a9c63e390ea836, type: 3}

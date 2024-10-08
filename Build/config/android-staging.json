@@ -1,0 +1,16 @@
+{
+	"$base": "shared-staging.json",
+
+	"Target": "Android",
+	"BundleTarget":"android-staging",
+
+	"AppBundle": true,
+	"ExportAndroidStudio": false,
+	"KeystorePath": "/../production.keystore",
+	"KeystorePass": "",
+	"KeyaliasName": "",
+	"KeyaliasPass": "",
+
+	"Publish": "GoogleStore",
+	"AndroidCreateSymbols": "Public"
+}
